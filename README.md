@@ -5,7 +5,11 @@ The three tracks used for live-testing are given below:
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/1b64efb3-23bd-4b23-a58c-1facde597bc6">
+  Oval Track
 </p>
+
+
+
 
 Oval Track
 
