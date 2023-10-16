@@ -8,7 +8,8 @@ The three tracks used for live-testing are given below:
 </p>
 
 
-<div align="center">Oval Track</div><br>
+<div align="center">Oval Track</div>
+</br>
 
 
 
@@ -19,7 +20,8 @@ The three tracks used for live-testing are given below:
 </p>
 
 
-<div align="center">Figure 8 Track</div><br>
+<div align="center">Figure 8 Track</div>
+</br>
 
 
 
@@ -29,7 +31,8 @@ The three tracks used for live-testing are given below:
 </p>
 
 
-<div align="center">T-junction</div><br>
+<div align="center">T-junction</div>
+</br>
 
 
 
