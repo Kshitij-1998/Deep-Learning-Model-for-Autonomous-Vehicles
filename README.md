@@ -11,6 +11,9 @@ The three tracks used for live-testing are given below:
 <div align="center">Oval Track</div>
 
 
+
+
+
 <p align="center">
   <img width="460" height="300" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/ea61896e-8f0f-479c-97ee-b6b5df9811b3">
 </p>
@@ -19,12 +22,17 @@ The three tracks used for live-testing are given below:
 <div align="center">Figure 8 Track</div>
 
 
+
+
 <p align="center">
   <img width="460" height="300" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/56e10b2b-47e8-4fbc-a36e-98b9ce2834f4)">
 </p>
 
 
 <div align="center">T-junction</div>
+
+
+
 
 
 
