@@ -3,6 +3,11 @@
 This project attempted to predict the turning angle and speed of the autonomous vehicle. It was divided into two phases to outline the challenges mentioned above. The first part of the project was conducted through a Kaggle competition. In this phase, the team used a pre-existing dataset to train the model. This algorithm was then tested on a partially hidden test set to analyse its performance on unseen data. The second phase involved developing a model for a real car and assessing its performance on various tracks.
 The three tracks used for live-testing are given below:
 
+<p align="center">
+  <img width="460" height="300" src="![image](https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/1b64efb3-23bd-4b23-a58c-1facde597bc6)">
+</p>
+
+
 ![image](https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/1b64efb3-23bd-4b23-a58c-1facde597bc6)
 
 Oval Track
