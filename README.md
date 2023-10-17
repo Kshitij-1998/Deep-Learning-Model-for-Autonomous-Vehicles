@@ -12,9 +12,6 @@ The three tracks used for live-testing are given below:
 
 
 
-<div align="center">Oval Track</div>
-</br>
-
 
 After initially testing MobilNetV2, VGG16 and InceptionV3 the team moved towards a custom CNN model. This model consistently outperformed the transfer learning models while being far more efficient. Therefore, the team decided to use the custom CNN architecture as the basis for the primary model. The CNN splits into two parts from the input layer. Both paths are similar in architecture consisting of convolution, max-pooling, dense, and activation layers (as shown in the figure below).
 
