@@ -24,7 +24,7 @@ After initially testing MobilNetV2, VGG16 and InceptionV3 the team moved towards
 
 The size of the Convolution filter was 3X3 without any padding. On the contrary, The max pooling Kernel size was 2X2 (again, no padding). The activation layers used the ReLu activation function. In total, the model had 450,090 parameters. On the other hand, the output node for speed had binary cross-entropy as the loss function since this prediction task required binary classification. An extended version of stochastic gradient descent called the Adam optimiser was used to minimise the loss function. Additionally, a learning rate schedule was deployed on the model to stabilise this process. Class weighting was also used to balance the dataset for speed. 
 L2 Regularisation was deployed to generalise this model. Dropout, which is a method that randomly ignores some layer outputs, was also used to further generalise the model. The dropout rate value used for this project was 0.5. The plot comparing the validation and training loss convergence is shown below. 
-
+</br>
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/c3ed14c4-3c66-4ccd-8627-c840d739d122">
