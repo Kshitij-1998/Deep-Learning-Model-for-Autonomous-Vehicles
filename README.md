@@ -36,8 +36,6 @@ L2 Regularisation was deployed to generalise this model. Dropout, which is a met
 
 While the model performed well on the oval track, it struggled on the other tracks. Therefore, the team decided to collect more data for the T-junction and figure-8 tracks. Data augmentation was also applied to add more images of particular regions of the tracks where the model struggled. The final dataset consisted of around 27,347 images (the original dataset was around 13,500 images).
 
-ADD THE DATASET 
-Add the results??
 
 
 
