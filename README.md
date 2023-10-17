@@ -16,7 +16,7 @@ The three tracks used for live-testing are given below:
 </br>
 
 
-After initially testing MobilNetV2, VGG16 and InceptionV3 the team moved towards a custom CNN model. This model consistently outperformed the transfer learning models while being far more efficient. Therefore, the team decided to use the custom CNN architecture as the basis for the primary model. The CNN splits into two parts from the input layer. Both paths are similar in architecture consisting of convolution, max-pooling, dense, and activation layers (as shown in Figure 3).
+After initially testing MobilNetV2, VGG16 and InceptionV3 the team moved towards a custom CNN model. This model consistently outperformed the transfer learning models while being far more efficient. Therefore, the team decided to use the custom CNN architecture as the basis for the primary model. The CNN splits into two parts from the input layer. Both paths are similar in architecture consisting of convolution, max-pooling, dense, and activation layers (as shown in the figure below).
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/41be2a23-c3d8-4e29-aa41-d33049043236">
