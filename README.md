@@ -26,7 +26,6 @@ The size of the Convolution filter was 3X3 without any padding. On the contrary,
 L2 Regularisation was deployed to generalise this model. Dropout, which is a method that randomly ignores some layer outputs, was also used to further generalise the model. The dropout rate value used for this project was 0.5. The plot comparing the validation and training loss convergence is shown below. 
 </br>
 </br>
-</br>
 <p align="center">
   <img width="460" height="300" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/c3ed14c4-3c66-4ccd-8627-c840d739d122">
 </p>
