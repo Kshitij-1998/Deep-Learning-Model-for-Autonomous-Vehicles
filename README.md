@@ -42,13 +42,14 @@ After initially testing MobilNetV2, VGG16 and InceptionV3 the team moved towards
 L2 Regularisation was deployed to generalise this model. Dropout, which is a method that randomly ignores some layer outputs, was also used to further generalise the model. The dropout rate value used for this project was 0.5. The plot comparing the validation and training loss convergence is shown below. 
 
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/c3ed14c4-3c66-4ccd-8627-c840d739d122">
+</p>
 
-![image](https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/41be2a23-c3d8-4e29-aa41-d33049043236)
 
 
 ADD THE DATASET 
 
 
-![image](https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/c3ed14c4-3c66-4ccd-8627-c840d739d122)
 
 
