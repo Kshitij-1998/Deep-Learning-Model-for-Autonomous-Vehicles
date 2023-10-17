@@ -4,40 +4,16 @@ This project attempted to predict the turning angle and speed of the autonomous 
 The three tracks used for live-testing are given below:
 
 <p align="center">
-  <img width="230" height="150" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/1b64efb3-23bd-4b23-a58c-1facde597bc6">
+  
+  Figure 8             |  T-Junction          |     Oval  
+  :-------------------------:|:-------------------------:|:------------------:
+  <img width="250" height="100" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/ea61896e-8f0f-479c-97ee-b6b5df9811b3">  |  <img width="250" height="100" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/56e10b2b-47e8-4fbc-a36e-98b9ce2834f4"> | <img width="250" height="100" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/1b64efb3-23bd-4b23-a58c-1facde597bc6">
 </p>
+
 
 
 <div align="center">Oval Track</div>
 </br>
-
-<p align="center">
-  <img width="230" height="150" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/ea61896e-8f0f-479c-97ee-b6b5df9811b3">
-</p>
-
-
-<div align="center">Figure 8 Track</div>
-</br>
-
-
-<p align="center">
-  <img width="230" height="150" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/56e10b2b-47e8-4fbc-a36e-98b9ce2834f4">
-</p>
-
-
-<div align="center">T-junction</div>
-</br>
-
-<p align="center">
-  
-  Figure 8             |  T-Junction          |     Oval  
-  :-------------------------:|:-------------------------:|:------------------:
-  <img width="180" height="100" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/ea61896e-8f0f-479c-97ee-b6b5df9811b3">  |  <img width="180" height="100" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/56e10b2b-47e8-4fbc-a36e-98b9ce2834f4"> | <img width="180" height="100" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/1b64efb3-23bd-4b23-a58c-1facde597bc6">
-</p>
-
-
-
-
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/Kshitij-1998/Deep-Learning-Model-for-Autonomous-Vehicles/assets/30474911/41be2a23-c3d8-4e29-aa41-d33049043236">
