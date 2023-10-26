@@ -1,4 +1,4 @@
-# MLiS2
+# Deep Learning for Autonomous Vehicles
 
 This group project attempted to predict the turning angle and speed of the autonomous vehicle. It was divided into two phases to outline the challenges mentioned above. The first part of the project was conducted through a Kaggle competition. In this phase, the team used a pre-existing dataset to train the model. This algorithm was then tested on a partially hidden test set to analyse its performance on unseen data. The second phase involved developing a model for a real car and assessing its performance on various tracks.
 The three tracks used for live-testing are given below:
